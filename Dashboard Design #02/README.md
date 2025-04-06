@@ -1,5 +1,5 @@
 # Responsive Dashboard Design #02
-In this tutorial ([Open in Youtube](https://youtu.be/YthqiuzEXBs)), 🎨 We’ll begin by structuring the layout with HTML, then styling it with CSS for a modern, sleek look. Finally, we'll incorporate JavaScript to add interactive features like displaying activity charts!
+In this tutorial, 🎨 We’ll begin by structuring the layout with HTML, then styling it with CSS for a modern, sleek look. Finally, we'll incorporate JavaScript to add interactive features like displaying activity charts!
 
 What You’ll Learn:
 - Structuring Your HTML: Laying the foundation for your dashboard with well-organized HTML.
